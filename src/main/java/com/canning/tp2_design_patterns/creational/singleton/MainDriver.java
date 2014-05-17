@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.canning.tp2_design_patterns.singleton;
+package com.canning.tp2_design_patterns.creational.singleton;
 
 /**
  *
